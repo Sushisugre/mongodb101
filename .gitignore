@@ -1,0 +1,9 @@
+# python
+.pyc
+
+# mis
+*.zip
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+c3/handling_blobs/using_gridfs/sample_128_mb.txt
